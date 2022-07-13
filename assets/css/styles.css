@@ -11,3 +11,8 @@
 #login_btn {
    margin-bottom: 25px;
 }
+
+#new_user {
+   width: 100%; 
+   margin-left: auto;
+}
