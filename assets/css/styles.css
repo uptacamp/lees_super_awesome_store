@@ -31,7 +31,7 @@
 
 #contact_table {
    
-   margin-top: 85px;
+   margin: auto;
    width: 100px;
 }
 
@@ -47,4 +47,8 @@
 .row h2 {
    text-align: center;
    padding: 75px;
+}
+
+#team_photo {
+   width: 100%
 }
