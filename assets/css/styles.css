@@ -37,7 +37,14 @@
 
 
 #carousel1, #carousel2, #carousel3 {
-   padding-bottom: 500px;
+   padding-bottom: 535px;
+   
+}
+
+#carousel1 a, #carousel2 a, #carousel3 a {
+   color: white;
+   font-family:fantasy, serif;
+   font-size: 2em;
 }
 
 #review1, #review2, #review3 {
@@ -51,4 +58,8 @@
 
 #team_photo {
    width: 100%
+}
+
+#carouselExampleCaptions {
+   margin-top: 50px;
 }
