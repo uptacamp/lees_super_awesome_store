@@ -20,3 +20,22 @@
    width: 100%; 
    margin-left: auto;
 }
+
+.card {
+   height: 580px;
+}
+
+#contact_table {
+   
+   margin-top: 85px;
+   width: 100px;
+}
+
+#review1, #review2, #review3 {
+   height: 120px;
+}
+
+.row h2 {
+   text-align: center;
+   padding: 75px;
+}
