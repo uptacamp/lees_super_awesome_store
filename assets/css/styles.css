@@ -21,8 +21,12 @@
    margin-left: auto;
 }
 
-.card {
-   height: 580px;
+
+.cardremove {
+   height: 530px;
+   width: 350px;
+   margin: 30px;
+   float: right;
 }
 
 #contact_table {
@@ -31,8 +35,13 @@
    width: 100px;
 }
 
+
+#carousel1, #carousel2, #carousel3 {
+   padding-bottom: 500px;
+}
+
 #review1, #review2, #review3 {
-   height: 120px;
+   height: 140px;
 }
 
 .row h2 {
